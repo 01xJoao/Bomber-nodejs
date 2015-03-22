@@ -7,7 +7,7 @@ How to play:
 
 1 - On console/terminal start the node typing "node conta.js".
 
-2 - Open the browser and enter the follow adress to initialize the public panel: "http://localhost:3000/Principal.html".
+2 - Open the browser and enter the adress to initialize the public panel: "http://localhost:3000/Principal.html".
 
 3 - On your phone open the browser and enter the IP of your computer. (For the Player Controller)
 
