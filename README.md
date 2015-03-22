@@ -12,6 +12,7 @@ How to play:
 3 - On your phone open the browser and enter the IP of your computer. (For the Player Controller)
 
 Notes: 
+
 Minimum of 2 players to iniciate a game.
        
 The game supports up to 4 players.
