@@ -25,4 +25,5 @@ Move the character by clicking on the arrows.
            
 Drop bombs clicking on the blue button.
 
-Made by: João Palma & Paulo Regado.
+
+**Made by: João Palma & Paulo Regado.**
