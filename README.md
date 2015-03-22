@@ -11,11 +11,17 @@ How to play:
 
 3 - On your phone open the browser and enter the IP of your computer. (For the Player Controller)
 
-Notes: Minimum of 2 players to iniciate a game.
-       The game supports up to 4 players.
-       For a better view of the Player controller turn your phone sideways.
+Notes: 
+Minimum of 2 players to iniciate a game.
+       
+The game supports up to 4 players.
+ 
+For a better view of the Player controller turn your phone sideways.
 
-Game notes: Move the character by clicking on the arrows.
-            Drop bombs clicking on the blue button.
+Game notes: 
+
+Move the character by clicking on the arrows.
+           
+Drop bombs clicking on the blue button.
 
 Made by: João Palma & Paulo Regado.
