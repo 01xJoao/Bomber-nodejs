@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<script src="/socket.io/socket.io.js"></script>
+<body>
+<style>
+</style>
+
+<div>
+    <input id="msg" type="text">
+    <input type ="button" id="send" value="send" onclick ="envia();">
+</div>
+<div id="mensagens"></div>
+
+<script>
+var divmsg = document.getElementById('mensagens');
+//divconta.innerHTML = '0';
+var socket = io.connect(); //Liga ao node.js por websocket | do outro lado chega uma mensagem chamada connection
+
+
+function envia(){
+    msg = 50033;
+    socket.emit("msg",msg);
+}
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<script src="/socket.io/socket.io.js"></script>
+<body>
+
+<div id="mensagens"></div>
+
+<script type="text/javascript">
+  var divmsg = document.getElementById('mensagens');
+  var socket = io.connect(); //Liga ao node.js por websocket | do outro lado chega uma mensagem chamada connection
+
+
+socket.on("mensagem", function (msg) {
+    $("#messages").append("<p>" + msg + "</p>")
+    //divmsg.innerHTML = msg;
+
+    $()
+});
+
+
+
+</script>
+
+</body>
+</html>
